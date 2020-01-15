@@ -1,0 +1,17 @@
+{
+	"Collaborateur": [
+		{
+			"id": 1,
+			"prenom": "Margaux",
+			"nom": "Sabouni",
+			"numeroTelephone": "0649360876",
+			"fix": "",
+			"email": "msabouni@unis.fr",
+			"dateNaissance": "30-03-1997",
+			"dateEntree": "01-07-2019",
+			"nomMission": "GIGA",
+			"dateDebutM": "01-09-2019",
+			"dateFinM": "02-09-2020"
+		}
+	]
+}
